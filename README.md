@@ -26,6 +26,15 @@ O Projeto Igarapé busca por meio da cultura indígena, uma relação de element
 
 
 
+
+
 ## 💻🗣️ Sobre o desenvolvimento do projeto
 O Projeto Igarapé foi criado para ser apresentado como Projeto Final do grupo 5 do Curso de Desenvolvedores Web FullStack em JAVA da ONG Generation Brasil. 
 O principal objetivo é apresentar soluções tecnológicas para a ODS 6 - Água potável e Saneamento.
+
+## Etapas do Desenvolvimento Back-End
+
+
+## Etapas do Desenvolvimento Front-End
+
+## Os atuais colaboradores do projeto!
