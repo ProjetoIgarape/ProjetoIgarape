@@ -1,5 +1,5 @@
 ## Olá! Sejam Bem Vindes ao Projeto Igarapé 👋
-<h3>Vamos falar sobre Água?! 🗣️💦 </h3>
+*<h3>Vamos falar sobre Água?! 🗣️💦 </h3>*
 
 <h4 align="center">
 <img align="center" alt="banner do projeto" src="https://github.com/ProjetoIgarape/ProjetoIgarape/blob/main/src/Banner%20Projeto%20Igarap%C3%A9.gif"> 
