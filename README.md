@@ -6,6 +6,24 @@
 
 ## 🤝🖥️💧 Sobre o Projeto Igarapé 
 <h4> O Projeto Igarapé busca por meio da cultura indígena, uma relação de elemento sagrado com a água. Associando assim, toda uma cultura originária ao estimulo de um consumo consciente aplicando por meio de uma plataforma digital, produtos que refletem o fomento de melhores práticas na utilização de recursos hídricos pela indústria. Sendo assim, a equipe entende do valor de cada produto e empenha-se em criar caminhos para o acesso a água potável em meio a um desenvolvimento insustentável, fazendo de tudo para melhor experiência de nossos usuários e revertendo os valores arrecadados para aplicação de cisternas modulares em comunidades carentes. </h4>
+  
+ <h3> Missão </h3>
+  <p> “Promover a qualidade de vida de comunidades carentes por meio de água potável. E estimular o uso de produtos sustentáveis.” </p>
+  
+ <h3> Visão </h3>
+  <p>“Atrair para o Projeto Igarapé pessoas e empreendimentos que se alinhem ao nosso propósito,  aumentando a capacidade de comunidades a serem assistidas pelo programa.”</p>
+  
+  <h3>Valores</h3>
+  
+  * Agir com Transparência
+  
+  * Pensar e atuar de forma sustentável
+  
+  * Integridade
+  
+  * Responsabilidade com as pessoas
+  
+  * Inovação
 
 
 
